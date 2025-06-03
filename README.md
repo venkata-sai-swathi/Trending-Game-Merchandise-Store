@@ -1,6 +1,5 @@
 <h1 align="center">🛍️ Trending Game Merchandise Store</h1>
 
-![](/src/Resources/image/preview1.png)
 
 <p align="center">
  Trending Game Merchandise Store
@@ -14,12 +13,10 @@ An Trending Game Merchandise Store, imitating a Game Store, built with React. In
 
 You can see images and a GIF of the project in user interaction below. The user starts on the landing page, navigates through the browse section, selects a game, adds it to their cart and opens the cart. The GIF does not show all features of the shop, it only shows the most elementary user interactions. <br /> <br />
 
-![](/src/Resources/image/preview0.png)
-![](/src/Resources/image/preview1.png)
+
 ![](/src/Resources/image/preview2.png)
 ![](/src/Resources/image/preview3.png)
-![](/src/Resources/image/preview4.png)
-![](/src/Resources/image/showcase.gif)
+
 
 ## Motivation
 
@@ -39,8 +36,6 @@ My motivations in building this project were showcasing what I learned so far an
 
 - React
 - React Router Dom
-- Framer Motion
-- Jest
 - CSS
 - Git
 - CDN
